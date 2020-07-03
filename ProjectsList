@@ -1,0 +1,17 @@
+Simple projects:
+----------------
+Face recognition
+Text recognition
+Number plate recognition
+Person count in an image
+
+Projects that might include video processing:
+----------------------------------------
+Background estimation in an image
+Signature verification
+Handwriting recognition- Identify whose handwriting this is
+Movement recognition: Incoming and outgoing persons count in a video
+Use case: Lets say we want to count the foot fall in a shop in a mall between particular timings in a day.
+
+
+
