@@ -14,4 +14,8 @@ Movement recognition: Incoming and outgoing persons count in a video
 Use case: Lets say we want to count the foot fall in a shop in a mall between particular timings in a day.
 
 
-
+Projects to understand basics:
+------------------------------
+1. Neural nets implementation with random numbers
+2. Edge detection
+3. RNN with text for image captioning
